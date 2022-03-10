@@ -1,0 +1,243 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>3</stadiumid>
+    <name>(URU) Centenario</name>
+    <airportcode>Uruguay - [Peñarol]</airportcode>
+    <airportname>Uruguay</airportname>
+    <hometeamid>1377</hometeamid>
+    <capacity>60235</capacity>
+    <yearbuilt>1930</yearbuilt>
+    <seatcolor>8</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>11</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>81</stadiumid>
+    <name>(URU) Jardines del Hipódromo</name>
+    <airportcode>Danubio FC</airportcode>
+    <airportname>Uruguay</airportname>
+    <hometeamid>111516</hometeamid>
+    <capacity>18000</capacity>
+    <yearbuilt>1957</yearbuilt>
+    <seatcolor>8</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>6</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>200</stadiumid>
+    <name>(URU) Gran Parque Central</name>
+    <airportcode>Nacional de Montevideo</airportcode>
+    <airportname>Uruguay</airportname>
+    <hometeamid>140007</hometeamid>
+    <capacity>36000</capacity>
+    <yearbuilt>1944</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>6</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>3</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>889</stadiumid>
+    <name>(URU) Parque Capurro</name>
+    <airportcode>Fénix</airportcode>
+    <airportname>Uruguay 8,200</airportname>
+    <hometeamid>146442</hometeamid>
+    <capacity>15200</capacity>
+    <yearbuilt>1938</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>891</stadiumid>
+    <name>(URU) Raúl Goyenola</name>
+    <airportcode>Tacuarembó</airportcode>
+    <airportname>Uruguay 9,000</airportname>
+    <hometeamid>146451</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1955</yearbuilt>
+    <seatcolor>6</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>894</stadiumid>
+    <name>(URU) Parque Palermo</name>
+    <airportcode>Central Español</airportcode>
+    <airportname>Uruguay 6,500</airportname>
+    <hometeamid>146439</hometeamid>
+    <capacity>15500</capacity>
+    <yearbuilt>1937</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>959</stadiumid>
+    <name>(URU) Olímpico de Montevideo</name>
+    <airportcode>Rampla Juniors</airportcode>
+    <airportname>Uruguay 6,000</airportname>
+    <hometeamid>146448</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1923</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>2</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>989</stadiumid>
+    <name>(URU) Belvedere</name>
+    <airportcode>Liverpool F. C.</airportcode>
+    <airportname>Uruguay 8,500</airportname>
+    <hometeamid>146445</hometeamid>
+    <capacity>15500</capacity>
+    <yearbuilt>1909</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>8</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>1041</stadiumid>
+    <name>(URU) Antonio Eleuterio Ubilla</name>
+    <airportcode>Cerro Largo</airportcode>
+    <airportname>Uruguay 9,000</airportname>
+    <hometeamid>120735</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>2008</yearbuilt>
+    <seatcolor>3</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>8</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>2</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>1042</stadiumid>
+    <name>(URU) José Nasazzi</name>
+    <airportcode>Bella Vista</airportcode>
+    <airportname>Uruguay 12,000</airportname>
+    <hometeamid>120736</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1931</yearbuilt>
+    <seatcolor>3</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>4</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+</FIFA09>

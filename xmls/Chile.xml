@@ -1,0 +1,507 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>18</stadiumid>
+    <name>(CHI) El Cobre de El Salvador</name>
+    <airportcode>Cobresal</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111462</hometeamid>
+    <capacity>20752</capacity>
+    <yearbuilt>1980</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>19</stadiumid>
+    <name>(CHI) Zorros del Desierto</name>
+    <airportcode>Cobreloa</airportcode>
+    <airportname>Chile 12,000</airportname>
+    <hometeamid>111461</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1952</yearbuilt>
+    <seatcolor>8</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>0</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>44</stadiumid>
+    <name>(CHI) Nacional de Chile</name>
+    <airportcode>Universidad de Chile - Chile</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111479</hometeamid>
+    <capacity>48665</capacity>
+    <yearbuilt>1938</yearbuilt>
+    <seatcolor>4</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>8</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>52</stadiumid>
+    <name>(CHI) El Teniente</name>
+    <airportcode>O'Higgins</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>146754</hometeamid>
+    <capacity>15600</capacity>
+    <yearbuilt>1945</yearbuilt>
+    <seatcolor>2</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>58</stadiumid>
+    <name>(CHI) Monumental David Arellano</name>
+    <airportcode>Colo Colo</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111463</hometeamid>
+    <capacity>47347</capacity>
+    <yearbuilt>1975</yearbuilt>
+    <seatcolor>5</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>7</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>60</stadiumid>
+    <name>(CHI) Municipal Roberto Bravo Santibáñez</name>
+    <airportcode>Deportes Melipilla</airportcode>
+    <airportname>Chile 6,500</airportname>
+    <hometeamid>111467</hometeamid>
+    <capacity>15500</capacity>
+    <yearbuilt>1942</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>62</stadiumid>
+    <name>(CHI) Carlos Dittborn</name>
+    <airportcode>San Marcos de Arica</airportcode>
+    <airportname>Chile 14,374</airportname>
+    <hometeamid>120130</hometeamid>
+    <capacity>15374</capacity>
+    <yearbuilt>1962</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>63</stadiumid>
+    <name>(CHI) Elías Figueroa Brander</name>
+    <airportcode>Santiago Wanderers</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111474</hometeamid>
+    <capacity>20575</capacity>
+    <yearbuilt>1931</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>64</stadiumid>
+    <name>(CHI) Huachipato-CAP Acero</name>
+    <airportcode>Huachipato</airportcode>
+    <airportname>Chile 10,579</airportname>
+    <hometeamid>111470</hometeamid>
+    <capacity>15579</capacity>
+    <yearbuilt>2006</yearbuilt>
+    <seatcolor>7</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>65</stadiumid>
+    <name>(CHI) Fiscal de Talca</name>
+    <airportcode>Rangers de Talca</airportcode>
+    <airportname>Chile 12,000</airportname>
+    <hometeamid>121473</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1937</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>66</stadiumid>
+    <name>(CHI) La Portada</name>
+    <airportcode>Deportes La Serena</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111466</hometeamid>
+    <capacity>18501</capacity>
+    <yearbuilt>1952</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>67</stadiumid>
+    <name>(CHI) Ester Roa Rebolledo</name>
+    <airportcode>Universidad de Concepción - Fernández Vial - Deportes Concepción - Fernández Vial</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111478</hometeamid>
+    <capacity>33000</capacity>
+    <yearbuilt>1962</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>69</stadiumid>
+    <name>(CHI) San Carlos de Apoquindo</name>
+    <airportcode>Universidad Católica - [Barnechea]</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111477</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1988</yearbuilt>
+    <seatcolor>6</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>70</stadiumid>
+    <name>(CHI) Santa Laura</name>
+    <airportcode>Unión Española</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111475</hometeamid>
+    <capacity>23755</capacity>
+    <yearbuilt>1922</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>71</stadiumid>
+    <name>(CHI) Municipal Rubén Marcos Peralta</name>
+    <airportcode>Provincial Osorno - [Deportes Puerto Montt]</airportcode>
+    <airportname>Chile 12,000</airportname>
+    <hometeamid>0</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1940</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>820</stadiumid>
+    <name>(CHI) Bicentenario Municipal Nelson Oyarzún</name>
+    <airportcode>Ñublense</airportcode>
+    <airportname>Chile 12,000</airportname>
+    <hometeamid>120127</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1935</yearbuilt>
+    <seatcolor>7</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>10</netcolor>
+    <mowpattern>3</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>896</stadiumid>
+    <name>(CHI) Germán Becker Baechler</name>
+    <airportcode>Deportes Temuco</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111468</hometeamid>
+    <capacity>18526</capacity>
+    <yearbuilt>1965</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>897</stadiumid>
+    <name>(CHI) Sausalito</name>
+    <airportcode>Everton de Viña</airportcode>
+    <airportname>Chile</airportname>
+    <hometeamid>111469</hometeamid>
+    <capacity>23420</capacity>
+    <yearbuilt>1929</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>924</stadiumid>
+    <name>(CHI) Bicentenario de La Florida</name>
+    <airportcode>Audax Italiano</airportcode>
+    <airportname>Chile 12,000</airportname>
+    <hometeamid>111460</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1986</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>6</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>926</stadiumid>
+    <name>(CHI) La Granja</name>
+    <airportcode>Curicó Unido</airportcode>
+    <airportname>Chile 8,278</airportname>
+    <hometeamid>120132</hometeamid>
+    <capacity>15278</capacity>
+    <yearbuilt>1949</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>927</stadiumid>
+    <name>(CHI) Tierra de Campeones</name>
+    <airportcode>Deportes Iquique</airportcode>
+    <airportname>Chile 12,000</airportname>
+    <hometeamid>120090</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1993</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>9</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+</FIFA09>

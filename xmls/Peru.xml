@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>11</stadiumid>
+    <name>(PER) Alejandro Villanueva</name>
+    <airportcode>Alianza Lima - Alianza Lima (Reserva)</airportcode>
+    <airportname>Perú</airportname>
+    <hometeamid>111519</hometeamid>
+    <capacity>35000</capacity>
+    <yearbuilt>1974</yearbuilt>
+    <seatcolor>4</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>8</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>1</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>1</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>22</stadiumid>
+    <name>(PER) Monumental de Ate</name>
+    <airportcode>Universitario - U América FC - [Hijos de Acosvinchos FC]</airportcode>
+    <airportname>Perú</airportname>
+    <hometeamid>111521</hometeamid>
+    <capacity>80093</capacity>
+    <yearbuilt>2000</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>0</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>31</stadiumid>
+    <name>(PER) Mansiche</name>
+    <airportcode>Carlos A. Mannucci - Universidad César Vallejo - Alfonso Ugarte de Chiclín</airportcode>
+    <airportname>Perú</airportname>
+    <hometeamid>120095</hometeamid>
+    <capacity>20000</capacity>
+    <yearbuilt>1946</yearbuilt>
+    <seatcolor>4</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>45</stadiumid>
+    <name>(PER) Alberto Gallardo</name>
+    <airportcode>Sporting Cristal - Universidad San Martín</airportcode>
+    <airportname>Perú</airportname>
+    <hometeamid>111520</hometeamid>
+    <capacity>18000</capacity>
+    <yearbuilt>1961</yearbuilt>
+    <seatcolor>5</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>48</stadiumid>
+    <name>(PER) Miguel Grau de Piura</name>
+    <airportcode>Atlético Grau - [UD Chulucanas]</airportcode>
+    <airportname>Perú</airportname>
+    <hometeamid>120094</hometeamid>
+    <capacity>30000</capacity>
+    <yearbuilt>1958</yearbuilt>
+    <seatcolor>8</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>50</stadiumid>
+    <name>(PER) Nacional del Perú</name>
+    <airportcode>Perú - [Deportivo Municipal]</airportcode>
+    <airportname>Perú</airportname>
+    <hometeamid>146107</hometeamid>
+    <capacity>50000</capacity>
+    <yearbuilt>1952</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>7</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>957</stadiumid>
+    <name>(PER) Campeones del 36</name>
+    <airportcode>Alianza Atlético</airportcode>
+    <airportname>Perú 12,000</airportname>
+    <hometeamid>120125</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>1936</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>1</shadowright>
+    <localizationcode>1</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>0</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>1</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+</FIFA09>

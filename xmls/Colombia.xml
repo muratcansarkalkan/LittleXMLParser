@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>23</stadiumid>
+    <name>(COL) Nemesio Camacho El Campín</name>
+    <airportcode>Independiente Santa Fe - Millonarios</airportcode>
+    <airportname>Colombia</airportname>
+    <hometeamid>111504</hometeamid>
+    <capacity>36343</capacity>
+    <yearbuilt>1938</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>9</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>271</stadiumid>
+    <name>(COL) Atanasio Girardot</name>
+    <airportcode>Independiente Medellín - Atlético Nacional</airportcode>
+    <airportname>Colombia</airportname>
+    <hometeamid>111505</hometeamid>
+    <capacity>44739</capacity>
+    <yearbuilt>1953</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>886</stadiumid>
+    <name>(COL) Metropolitano Roberto Meléndez</name>
+    <airportcode>Junior de Barranquilla - Barranquilla F. C. - Colombia</airportcode>
+    <airportname>Colombia</airportname>
+    <hometeamid>111495</hometeamid>
+    <capacity>46692</capacity>
+    <yearbuilt>1986</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>895</stadiumid>
+    <name>(COL) Olímpico Pascual Guerrero</name>
+    <airportcode>América de Cali - Cortuluá - Atlético F. C. - Boca Juniors de Cali - [Deportivo Cali]</airportcode>
+    <airportname>Colombia</airportname>
+    <hometeamid>111492</hometeamid>
+    <capacity>35405</capacity>
+    <yearbuilt>1937</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>965</stadiumid>
+    <name>(COL) Alfonso López</name>
+    <airportcode>Atlético Bucaramanga</airportcode>
+    <airportname>Colombia</airportname>
+    <hometeamid>111493</hometeamid>
+    <capacity>35000</capacity>
+    <yearbuilt>1941</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>14</netcolor>
+    <mowpattern>14</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+</FIFA09>

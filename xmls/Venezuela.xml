@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>21</stadiumid>
+    <name>(VEN) Olímpico de la UCV</name>
+    <airportcode>Caracas F. C. - Petare - Universidad Central de Venezuela - Deportivo La Guaira - [Metropolitanos F.C.]</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>111517</hometeamid>
+    <capacity>24900</capacity>
+    <yearbuilt>1951</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>1</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>1</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>47</stadiumid>
+    <name>(VEN) Polideportivo de Pueblo Nuevo</name>
+    <airportcode>Deportivo Táchira</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>140004</hometeamid>
+    <capacity>38755</capacity>
+    <yearbuilt>1976</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>4</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>78</stadiumid>
+    <name>(VEN) CTE Cachamay</name>
+    <airportcode>Mineros de Guayana - Venezuela</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>111526</hometeamid>
+    <capacity>45600</capacity>
+    <yearbuilt>1990</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>8</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>79</stadiumid>
+    <name>(VEN) José Encarnación Romero</name>
+    <airportcode>Zulia FC - JBL Zulia</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>146176</hometeamid>
+    <capacity>40000</capacity>
+    <yearbuilt>1968</yearbuilt>
+    <seatcolor>5</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>0</netcolor>
+    <mowpattern>7</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>1</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>960</stadiumid>
+    <name>(VEN) Agustín Tovar</name>
+    <airportcode>Zamora F. C.</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>146759</hometeamid>
+    <capacity>24396</capacity>
+    <yearbuilt>1977</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>2</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>961</stadiumid>
+    <name>(VEN) Metropolitano de Mérida</name>
+    <airportcode>Estudiantes de Mérida - Unión Local Andina</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>146151</hometeamid>
+    <capacity>42200</capacity>
+    <yearbuilt>2007</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>4</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>962</stadiumid>
+    <name>(VEN) Monumental de Maturín</name>
+    <airportcode>Monagas S. C.</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>146153</hometeamid>
+    <capacity>51796</capacity>
+    <yearbuilt>2007</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>1</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>976</stadiumid>
+    <name>(VEN) José Antonio Anzoátegui</name>
+    <airportcode>Deportivo Anzoátegui - Petroleros de Anzoátegui</airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>120432</hometeamid>
+    <capacity>37485</capacity>
+    <yearbuilt>1965</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>3</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>980</stadiumid>
+    <name>(VEN) José Alberto Pérez</name>
+    <airportcode>Trujillanos F. C. </airportcode>
+    <airportname>Venezuela</airportname>
+    <hometeamid>111525</hometeamid>
+    <capacity>23400</capacity>
+    <yearbuilt>2005</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+</FIFA09>

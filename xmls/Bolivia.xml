@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>2</stadiumid>
+    <name>(BOL) Hernando Siles</name>
+    <airportcode>The Strongest - Bolívar - [Universitario de La Paz] - Bolivia</airportcode>
+    <airportname>Bolivia</airportname>
+    <hometeamid>111489</hometeamid>
+    <capacity>42000</capacity>
+    <yearbuilt>1930</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>8</mowpattern>
+    <pitchsurroundcode>5</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>72</stadiumid>
+    <name>(BOL) Félix Capriles</name>
+    <airportcode>Jorge Wilstermann - Aurora - Enrique Happ</airportcode>
+    <airportname>Bolivia</airportname>
+    <hometeamid>121491</hometeamid>
+    <capacity>32000</capacity>
+    <yearbuilt>1938</yearbuilt>
+    <seatcolor>3</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>8</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>73</stadiumid>
+    <name>(BOL) Ramón Tahuichi Aguilera</name>
+    <airportcode>Oriente Petrolero - Blooming - Destroyer's - Royal Pari - [Guabirá]</airportcode>
+    <airportname>Bolivia</airportname>
+    <hometeamid>111486</hometeamid>
+    <capacity>38500</capacity>
+    <yearbuilt>1940</yearbuilt>
+    <seatcolor>7</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>2</mowpattern>
+    <pitchsurroundcode>4</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>0</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>74</stadiumid>
+    <name>(BOL) Víctor Agustín Ugarte</name>
+    <airportcode>Real Potosí - Nacional Potosí</airportcode>
+    <airportname>Bolivia</airportname>
+    <hometeamid>111487</hometeamid>
+    <capacity>32105</capacity>
+    <yearbuilt>1992</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>0</netcolor>
+    <mowpattern>8</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>1</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>75</stadiumid>
+    <name>(BOL) Olímpico Patria</name>
+    <airportcode>Universitario de Sucre - Independiente Petrolero</airportcode>
+    <airportname>Bolivia</airportname>
+    <hometeamid>146171</hometeamid>
+    <capacity>30700</capacity>
+    <yearbuilt>1992</yearbuilt>
+    <seatcolor>7</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>2</mowpattern>
+    <pitchsurroundcode>4</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+</FIFA09>

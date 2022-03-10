@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>892</stadiumid>
+    <name>(PAR) Antonio Aranda</name>
+    <airportcode>3 de Febrero</airportcode>
+    <airportname>Paraguay</airportname>
+    <hometeamid>146213</hometeamid>
+    <capacity>28000</capacity>
+    <yearbuilt>1973</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>893</stadiumid>
+    <name>(PAR) General Pablo Rojas</name>
+    <airportcode>Cerro Porteño</airportcode>
+    <airportname>Paraguay</airportname>
+    <hometeamid>140001</hometeamid>
+    <capacity>47500</capacity>
+    <yearbuilt>1970</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>928</stadiumid>
+    <name>(PAR) Defensores del Chaco</name>
+    <airportcode>Olimpia - Libertad - Guaraní - Paraguay</airportcode>
+    <airportname>Paraguay</airportname>
+    <hometeamid>146218</hometeamid>
+    <capacity>36500</capacity>
+    <yearbuilt>1917</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>7</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>4</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>2</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>991</stadiumid>
+    <name>(PAR) Dr. Nicolás Leoz</name>
+    <airportcode>Libertad</airportcode>
+    <airportname>Paraguay 12,000</airportname>
+    <hometeamid>146088</hometeamid>
+    <capacity>15000</capacity>
+    <yearbuilt>2005</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+</FIFA09>

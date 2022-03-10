@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="yes"?>
+<FIFA09>
+  <stadiums>
+    <stadiumid>43</stadiumid>
+    <name>(ECU) Monumental Isidro Romero</name>
+    <airportcode>Barcelona S. C. - Toreros FC</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>146256</hometeamid>
+    <capacity>57267</capacity>
+    <yearbuilt>1987</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>1</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>87</stadiumid>
+    <name>(ECU) Federativo Reina del Cisne</name>
+    <airportcode>LDU Loja - Borussia Loja</airportcode>
+    <airportname>Ecuador 14,935</airportname>
+    <hometeamid>0</hometeamid>
+    <capacity>15935</capacity>
+    <yearbuilt>1980</yearbuilt>
+    <seatcolor>3</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>2</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>1</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>0</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>235</stadiumid>
+    <name>(ECU) Olímpico Atahualpa</name>
+    <airportcode>Deportivo Quito - El Nacional - Universidad Católica del Ecuador - Deportivo América de Quito - Ecuador</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>146261</hometeamid>
+    <capacity>38500</capacity>
+    <yearbuilt>1951</yearbuilt>
+    <seatcolor>5</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>0</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>7</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>890</stadiumid>
+    <name>(ECU) Casa Blanca</name>
+    <airportcode>Liga Deportiva Universitaria</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>140003</hometeamid>
+    <capacity>41575</capacity>
+    <yearbuilt>1997</yearbuilt>
+    <seatcolor>6</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>3</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>0</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>958</stadiumid>
+    <name>(ECU) George Capwell</name>
+    <airportcode>Emelec</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>146257</hometeamid>
+    <capacity>40059</capacity>
+    <yearbuilt>1945</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>8</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>2</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>1</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>985</stadiumid>
+    <name>(ECU) Alejandro Serrano Aguilar</name>
+    <airportcode>Deportivo Cuenca - Estudiantes de Cuenca</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>140008</hometeamid>
+    <capacity>16500</capacity>
+    <yearbuilt>1945</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>4</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>986</stadiumid>
+    <name>(ECU) Bellavista</name>
+    <airportcode>Macará - Técnico Universitario - Mushuc Runa</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>146259</hometeamid>
+    <capacity>18000</capacity>
+    <yearbuilt>1945</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>987</stadiumid>
+    <name>(ECU) Jocay</name>
+    <airportcode>Delfín S.C. - Manta</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>120899</hometeamid>
+    <capacity>18125</capacity>
+    <yearbuilt>1962</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>0</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+  <stadiums>
+    <stadiumid>988</stadiumid>
+    <name>(ECU) Modelo Alberto Spencer</name>
+    <airportcode>Patria - 9 de Octubre - Everest</airportcode>
+    <airportname>Ecuador</airportname>
+    <hometeamid>120924</hometeamid>
+    <capacity>42000</capacity>
+    <yearbuilt>1959</yearbuilt>
+    <seatcolor>1</seatcolor>
+    <stadiumtype>0</stadiumtype>
+    <track>0</track>
+    <netcolor>0</netcolor>
+    <mowpattern>1</mowpattern>
+    <pitchsurroundcode>0</pitchsurroundcode>
+    <shadowleft>1</shadowleft>
+    <shadowright>0</shadowright>
+    <localizationcode>0</localizationcode>
+    <hasovercast>1</hasovercast>
+    <hasclearday>1</hasclearday>
+    <hasnighttime>1</hasnighttime>
+    <hassunset>1</hassunset>
+    <hasretractableroof>0</hasretractableroof>
+    <stadiumcondition>1</stadiumcondition>
+  </stadiums>
+</FIFA09>
